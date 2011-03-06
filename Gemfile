@@ -33,6 +33,7 @@ gem 'jquery-rails', '>= 0.2.6'
 gem 'addressable', '~> 2.2.4'
 gem "paperclip", "~> 2.3"
 gem "inherited_resources", "~> 1.2.1"
+gem "responders", "~> 0.6.2"
 
 gem 'acts-as-taggable-on', "~> 2.0.6"
 
